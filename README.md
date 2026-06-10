@@ -1,6 +1,6 @@
 <div align="center">
 
- Dr. Sachit Anand
+# Dr. Sachit Anand
 
 ### Assistant Professor • Paediatric Surgery
 ### All India Institute of Medical Sciences (AIIMS), New Delhi
